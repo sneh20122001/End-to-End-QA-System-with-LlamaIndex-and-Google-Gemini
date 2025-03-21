@@ -1,0 +1,11 @@
+pypdf
+python-dotenv
+IPython
+google-generativeai
+llama-index-llms-gemini
+llama-index
+streamlit
+llama-index-embeddings-gemini
+
+
+-e ./
